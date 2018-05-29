@@ -1,5 +1,4 @@
-# GRGBRB
-## (G RGB for Ruby)
+# GRGBRB (G RGB for Ruby)
 
 GRGBRB is a Ruby library for controlling the RGB LEDs on Logitech G series 
 gaming hardware. 
